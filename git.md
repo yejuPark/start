@@ -31,4 +31,5 @@
         - `git config --global user.name` 를 통해 값 확인
 
 - `git remote`
-    - `git remote add origin <remote url>``
+    - `git remote add origin <remote url>`
+    - remote 저장소 주소를 추가하는 명령어
